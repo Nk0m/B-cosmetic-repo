@@ -127,7 +127,14 @@ footer{
 
 .social-networks li{
   display: inline-block;
-  line-height: 70px;
+  line-height: 80px;
   margin: 0 5px;
 }
 
+@media screen and (max-width: 1000px){
+  .foottr{
+    font-size: 30px;
+    padding-left: 50px;
+  }
+  
+}
