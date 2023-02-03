@@ -142,13 +142,7 @@ footer{
   
 }
 
-.categories{
-  margin: 50px 0;
-}
 
-.cat-1{
-  display: flex;
-}
 
 /*images
 
@@ -330,3 +324,13 @@ button:hover{
 
 }
 
+/*about*/
+
+.lip-f{
+  display: grid;
+  grid-template-columns: repeat(3 1fr);
+  grid-template-rows: 200px 200px;
+  background-color: pink;
+  gap: 11px;
+  border: #3a3a3a 1px solid;
+}
