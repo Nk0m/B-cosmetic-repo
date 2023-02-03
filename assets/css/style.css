@@ -18,6 +18,7 @@ body{
     color: #3a3a3a;
     font-size: 20px;
     height: 50%;
+    padding-bottom: 225px; 
 }
 
 nav{
@@ -146,5 +147,186 @@ footer{
 }
 
 .cat-1{
-  flex-basis: 20%;
+  display: flex;
 }
+
+/*images
+
+#gloss-image {
+  height: auto;
+}*/
+
+/*target the div tag*/
+
+.group{
+  margin: auto;
+  height: 800px;
+  width: 400px;
+  float: left;
+  
+}
+
+
+/*target the im in div tag*/
+.group img {
+  width: 100%;
+  height: 65%;
+ 
+}
+/*
+.lip1 {
+  float: left;
+  width: 33.333%;
+}
+
+.lip3 {
+  float: right;
+  width: 33.333%;
+
+}
+
+.lip2 {
+  display: inline-block;
+  width: 33.333%;
+}*/
+
+/*.container {
+  display: grid;
+  grid-template-columns: 560px 380px ;
+  text-align: center;
+}
+
+.lips {
+  padding: 12px;
+  height: 600px;
+  margin: 15px;
+  background-color:black;
+}
+
+.glo {
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
+.lik {
+  padding: 16px;
+  height: 250px;
+  background-color:black;
+}*/
+
+
+/*cover image*/ 
+
+.hero-image{
+  height: 70vh;
+  
+  background-image: url('../images/pr2.png') ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ 
+}
+.text-bottom{
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  
+}
+
+.catg {
+  max-width: 1200px;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.catg-pdt{
+  flex-grow: 1;
+  min-width: 33.33%;
+  height: 300px;
+  border: 3px solid white;
+  box-sizing: border-box;
+  background-size: cover;
+  background-position: center;
+}
+@media screen and (max-width: 1000px) {
+  .catg-pdt{
+    min-width: 50%;
+  }
+
+}
+  
+@media screen and (max-width: 800px) {
+  .catg-pdt{
+    min-width: 100%;
+  }
+
+}
+
+
+.gamme{
+  margin-top: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr ;
+  grid-gap:5px;
+
+}
+.gamme-title{
+text-align: center;
+}
+
+.gamme-pdt{
+  border: 1px solid rgba(214, 158, 158, 0.326);
+ 
+  text-align: center;
+  overflow: hidden;
+  border-radius: 5px;
+  height: 200px;
+  box-sizing: border-box;
+}
+
+.item{
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+ button{
+  background: #d4a0a0;
+  
+  color: black;
+  border-radius: 16px;
+  padding-top: 6px;
+  padding-bottom: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  font-size: 15px;
+  margin: 10px 0;
+  
+}
+
+button:hover{
+  background: black;
+  color: white;
+}
+
+
+@media screen and (max-width: 1000px) {
+  .gamme{
+    grid-template-columns: 1fr 1fr ;
+  }
+
+}
+  
+@media screen and (max-width: 800px) {
+  .gamme{
+    grid-template-columns: 1fr ;
+  }
+
+}
+
