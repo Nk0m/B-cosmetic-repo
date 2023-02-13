@@ -44,3 +44,5 @@ Credits
  navigation bar , grid (code institue, some youtube video : Dani Krossing, Tyler Potts, Coding nepal,James Cross free codecamp.org, web devloppement simplified) 
 books: Learning Web Design , CSS layout.
 all images are from Canva site.
+
+website: https://nk0m.github.io/B-cosmetic-repo/
