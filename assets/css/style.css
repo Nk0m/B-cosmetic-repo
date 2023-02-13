@@ -95,11 +95,14 @@ nav ul li a {
     height: 100vh;
     background: #3a3a3a;
     top:80px;
-    left: 0;
+    left: -100%;
     text-align: center;
+    transition: all .3s;
   }
   #menu li{
     display: block;
+    margin: 50px 0;
+    line-height: 30px;
   }
 
   #menu li a{
@@ -107,6 +110,8 @@ nav ul li a {
     background: none;
     color: red;
   }
+
+  
 }
 
 footer{
