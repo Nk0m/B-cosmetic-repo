@@ -144,11 +144,7 @@ footer{
 
 
 
-/*images
 
-#gloss-image {
-  height: auto;
-}*/
 
 /*target the div tag*/
 
@@ -324,13 +320,9 @@ button:hover{
 
 }
 
-/*about*/
+/*about*
 
-.lip-f{
-  display: grid;
-  grid-template-columns: repeat(3 1fr);
-  grid-template-rows: 200px 200px;
-  background-color: pink;
-  gap: 11px;
-  border: #3a3a3a 1px solid;
-}
+
+
+
+/*form section/*/
