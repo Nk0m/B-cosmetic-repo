@@ -1,4 +1,4 @@
-# B-cosmetic-repo
+# B-cosmetic-repo : Barvanie Cosmetics
 
 Barvanie Cosmetics is a site that sell lips products to increase the volume. It is an alternative to cosmetic surgery, it is possible to get full lips without injections; just good skin scare and great products.
 
