@@ -14,6 +14,7 @@ the landing page
 
 <img src="Screenshot 4.png" width="800px">
 display the products that people can shop , add to the cart.
+<img src="Screenshot 2.png" width="800px">
 the footer 
 <img src="Screenshot 2f.png" width="800px">
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
