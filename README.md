@@ -4,7 +4,7 @@ Barvanie Cosmetics is a site that sell lips products to increase the volume. It 
 
 Features
 Existing Features
-<img src= "Screenshot 1.png" width="400px">
+<img src= "Screenshot 1.png" width="800px">
 
 - NAvigation Bar 
 it is full responsive navigation bar includes links to the Logo, Home page, About and Contact page and is identical in each page. 
