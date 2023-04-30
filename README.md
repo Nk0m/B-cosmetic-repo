@@ -2,6 +2,11 @@
 
 Barvanie Cosmetics is a site that sell lips products to increase the volume. It is an alternative to cosmetic surgery, it is possible to get full lips without injections; just good skin scare and great products.
 
+The goal of the website is :
+- to understand and apply HTML in the correct way
+- to apply CSS and make the website responsive 
+- to create a landing page, a responsive navigation bar and a contact form 
+
 <h2>Features</h2>
 
 <h3>Navigation bar</h3>
