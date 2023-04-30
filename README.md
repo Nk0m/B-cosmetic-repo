@@ -25,7 +25,7 @@ It displays the products that people can shop , add to the cart.
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media.
 
-<h3>The conctact form page</h3>
+<h3>The contact form page</h3>
 <img src="Screenshot 5.png" width="800px">
 on gitpod: it is working properly , the image is nicely dispalyed but it is not via gitub.
 
