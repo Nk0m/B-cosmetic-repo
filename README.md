@@ -10,8 +10,12 @@ Existing Features
 it is full responsive navigation bar includes links to the Logo, Home page, About and Contact page and is identical in each page. 
 
 the landing page
+<img src="Screenshot 3.png" width="800px">
+
+<img src="Screenshot 4.png" width="800px">
 display the products that people can shop , add to the cart.
 the footer 
+<img src="Screenshot 2f.png" width="800px">
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media.
 
@@ -25,7 +29,10 @@ Unfixed Bugs
 navigation bar : media query for smartphone, small devise (max-width:900px) it is not working , I got some inspiration to different sources codes on youtube and W3schools I couldn't fix the problem.
 
 the conctact form:
+<img src="Screenshot 5.png" width="800px">
 on gitpod: the god is working properly , the image is nicely dispalyed but it is not via gitub.
+
+
 
 Fixec bugs
 I use inline css, some css code were not working on style.css sheet. 
