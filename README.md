@@ -3,7 +3,7 @@
 Barvanie Cosmetics is a site that sell lips products to increase the volume. It is an alternative to cosmetic surgery, it is possible to get full lips without injections; just good skin scare and great products.
 
 Features
-
+<img src= "screenshot.png" width="200px">
 Existing Features
 - NAvigation Bar 
 it is full responsive navigation bar includes links to the Logo, Home page, About and Contact page and is identical in each page. 
