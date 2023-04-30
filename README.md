@@ -3,14 +3,15 @@
 Barvanie Cosmetics is a site that sell lips products to increase the volume. It is an alternative to cosmetic surgery, it is possible to get full lips without injections; just good skin scare and great products.
 
 Features
-<img src= "Screenshot 1.png" width="200px">
 Existing Features
+<img src= "Screenshot 1.png" width="400px">
+
 - NAvigation Bar 
 it is full responsive navigation bar includes links to the Logo, Home page, About and Contact page and is identical in each page. 
 
 the landing page
 display the products that people can shop , add to the cart.
-the footer
+the footer 
 The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media.
 
